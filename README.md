@@ -1,2 +1,2 @@
 # python-mailing-client
-FreeCodeCamp.org Network Programming Project 1
+FreeCodeCamp.org Python Network Programming Project 1
